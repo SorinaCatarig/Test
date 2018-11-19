@@ -1,7 +1,6 @@
 package Test;
 
 import org.openqa.selenium.support.ui.Select;
-import org.testng.annotations.AfterSuite;
 import org.testng.annotations.Test;
 import static org.testng.Assert.assertEquals;
 
